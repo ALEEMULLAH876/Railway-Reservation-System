@@ -1,0 +1,5 @@
+db.properties
+*.class
+.vscode/
+.idea/
+target/
